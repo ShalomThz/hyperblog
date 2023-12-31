@@ -1,2 +1,2 @@
 # hyperblog
-practica un blog increible para el uso de git y github de platzi
+practica un blog increible para el uso de git y github de platziXD
